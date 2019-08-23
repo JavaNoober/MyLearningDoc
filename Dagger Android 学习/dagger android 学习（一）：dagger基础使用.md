@@ -2,10 +2,10 @@
 
 本系列博客主要用于自己学习积累，顺便帮助新手入门，如有问题，多多包涵。更详细的一些使用可以看看其他更加详细的博客。
 
-[dagger android 学习（一）：dagger基础使用](https://juejin.im/post/5cc71fb7e51d456e6479b4fe)  
-[dagger android 学习（二）：AndroidInjector的使用](https://juejin.im/post/5cc7202fe51d456e31164a6c)  
-[dagger android 学习（三）：ContributesAndroidInjector的进一步优化](https://juejin.im/post/5cc72061e51d456e6154b4bc)  
-[dagger android 学习（四）：基于dagger2的mvp架构](https://juejin.im/post/5cc72088e51d456e6d13351d)  
+[dagger android 学习（一）：dagger基础使用](https://github.com/JavaNoober/MyLearningDoc/blob/master/Dagger%20Android%20%E5%AD%A6%E4%B9%A0/dagger%20android%20%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9Adagger%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8.md)  
+[dagger android 学习（二）：AndroidInjector的使用](https://github.com/JavaNoober/MyLearningDoc/blob/master/Dagger%20Android%20%E5%AD%A6%E4%B9%A0/dagger%20android%20%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9AAndroidInjector%E7%9A%84%E4%BD%BF%E7%94%A8.md)  
+[dagger android 学习（三）：ContributesAndroidInjector的进一步优化](https://github.com/JavaNoober/MyLearningDoc/blob/master/Dagger%20Android%20%E5%AD%A6%E4%B9%A0/dagger%20android%20%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9AContributesAndroidInjector%E7%9A%84%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%BC%98%E5%8C%96.md)  
+[dagger android 学习（四）：基于dagger2的mvp架构](https://github.com/JavaNoober/MyLearningDoc/blob/master/Dagger%20Android%20%E5%AD%A6%E4%B9%A0/dagger%20android%20%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E5%9F%BA%E4%BA%8Edagger2%E7%9A%84mvp%E6%9E%B6%E6%9E%84.md)  
 
 
 ### 添加依赖
