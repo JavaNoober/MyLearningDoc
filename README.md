@@ -1,5 +1,5 @@
 # MyLearningDoc
-我的学习文章整理
+学习文章整理
 
 - [无需自定义View，彻底解放shape，selector吧](https://juejin.im/post/5b9682ebe51d450e543e3495)
 - [kotlin使用技巧分享](https://github.com/JavaNoober/MyLearningDoc/blob/master/kotlin%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB/kotlin%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB.md)
